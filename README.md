@@ -1,6 +1,6 @@
 # Tenzies game using React JS
 
-Demo here:https://tenzies-apps.netlify.app
+Demo here:https://tenzies-apps.netlify.app<br/>
 Game screen:
 ![image](https://user-images.githubusercontent.com/105360669/218135413-e32b39cd-6406-440b-9b90-653cc70e6d53.png)
 Win screen
